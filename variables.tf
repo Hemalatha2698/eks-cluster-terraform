@@ -6,3 +6,5 @@ variable "cluster-name" {
   default = "terraform-eks-demo"
   type    = string
 }
+
+Ec2 instance
